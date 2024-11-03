@@ -69,7 +69,7 @@ def show_explore_page():
 
     st.write("""#### Number of Data from different countries""")
 
-    st.pyplot(ax1)
+    st.pyplot(fig1)
     
     st.write(
         """
